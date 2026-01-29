@@ -1,4 +1,4 @@
-# ⚠️ Disclaimer (Recommended)
+# ⚠️ Disclaimer 
 This project is created for educational and learning purposes only. The data used in this analysis is publicly available and has been used solely for academic practice. The insights generated are not intended for medical diagnosis, treatment, or professional healthcare decision-making.
 
 
