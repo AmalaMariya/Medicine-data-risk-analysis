@@ -13,11 +13,11 @@ This project involves analyzing medicine-related data using Python to gain insig
 
 - Libraries:
 
-Pandas
+  Pandas
 
-NumPy
+  NumPy
 
-Scikit-learn (TF-IDF Vectorization, Logistic Regression, Confusion Matrix, Classification Report)
+  Scikit-learn (TF-IDF Vectorization, Logistic Regression, Confusion Matrix, Classification Report)
 
 - Matplotlib / Seaborn (Model Evaluation Visualization)
 
