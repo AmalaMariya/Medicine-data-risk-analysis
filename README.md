@@ -10,7 +10,9 @@ This project involves analyzing medicine-related data using Python to gain insig
 
 # 🛠️ Tools & Technologies Used
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Environment: Jupyter Notebook
 
 
