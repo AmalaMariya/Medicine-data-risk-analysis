@@ -9,9 +9,9 @@ This project involves analyzing medicine-related data using Python to gain insig
 
 
 # 🛠️ Tools & Technologies Used
-Programming Language: Python
+- Programming Language: Python
 
-Libraries:
+- Libraries:
 
 Pandas
 
@@ -19,7 +19,9 @@ NumPy
 
 Scikit-learn (TF-IDF Vectorization, Logistic Regression, Confusion Matrix, Classification Report)
 
-Environment: Jupyter Notebook
+- Matplotlib / Seaborn (Model Evaluation Visualization)
+
+- Environment: Jupyter Notebook
 
 
 
